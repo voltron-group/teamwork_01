@@ -1,5 +1,5 @@
 name = Ognyan Ignatov
 
-size = 144
+size = 174
 
 email = o_ignatov@mail.bg
