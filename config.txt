@@ -1,8 +1,19 @@
-name = Yavor Grigorov
-email = yavor.p.grigorov@gmail.com
+<<<<<<< .mine
+name =
+email = 
 
-name = Teodor.Rachev
-e-mail = brodo2g@gmail.com
+name = Teodor.Rachev 
+e-mail = brodo2g@gmail.com 
 
 name = 
 e-mail = 
+=======
+name = 
+size = 
+
+
+
+
+
+
+>>>>>>> .theirs
