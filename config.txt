@@ -1,9 +1,5 @@
-name = Yavor Grigorov
+name = Ognyan Ignatov
 
-<<<<<<< .mine
 size = 174
-=======
-size = 1.90
->>>>>>> .theirs
 
-email = yavor.p.grigorov@gmail.com
+email = o_ignatov@mail.bg
