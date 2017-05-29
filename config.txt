@@ -1,3 +1,13 @@
-name = Ognyan Ignatov
-size = 174
-ndn
+
+name =
+email = 
+
+name = Teodor.Rachev 
+e-mail = brodo2g@gmail.com 
+
+name = Silvena Shtereva
+e-mail = silvenag@gmail.com
+=======
+name = 
+size = 
+не бачка
