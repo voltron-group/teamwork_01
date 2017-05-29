@@ -1,10 +1,8 @@
 name = Yavor Grigorov
-size = 174
-
-
-
-size = 1.90
-
-
 email = yavor.p.grigorov@gmail.com
-domaten sos
+
+name = 
+e-mail = 
+
+name = 
+e-mail = 
