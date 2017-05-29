@@ -1,7 +1,2 @@
 name = Ognyan Ignatov
-
 size = 174
-
-email = o_ignatov@mail.bg
-
-new commit
