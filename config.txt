@@ -13,3 +13,6 @@ e-mail=m.d.bratanov@gmail.com
 name = 
 size = 
 íå áà÷êà
+
+name = Velin Hristov
+e-mail= resingdora@abv.bg
