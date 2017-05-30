@@ -1,3 +1,59 @@
+﻿<<<<<<< .mine
 name = Ognyan Ignatov
 size = 174
 test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+
+name = Svetoslav Petkov
+email = svet1981@abv.bg
+
+name = Teodor.Rachev 
+e-mail = brodo2g@gmail.com 
+
+name = Silvena Shtereva
+e-mail = silvenag@gmail.com
+
+name= Mihail Bratanov
+e-mail=m.d.bratanov@gmail.com
+
+name = Kiril Parushev
+e-mail = parushev.kiril@gmail.com
+
+NAME = VOLTRON
+STATUS = COMPLETE
+
+VOLTRON disengage
+
+=======
+name = 
+size = 
+íå áà÷êà
+
+name = Velin Hristov
+e-mail= resingdora@abv.bg
+>>>>>>> .theirs
