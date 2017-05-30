@@ -14,6 +14,9 @@ e-mail=m.d.bratanov@gmail.com
 name = Kiril Parushev
 e-mail = parushev.kiril@gmail.com
 
+NAME = VOLTRON
+STATUS = COMPLETE
+
 =======
 name = 
 size = 
