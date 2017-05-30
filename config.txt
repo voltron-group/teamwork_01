@@ -1,6 +1,6 @@
 
-name =
-email = 
+name = Svetoslav Petkov
+email = svet19811@abv.bg
 
 name = Teodor.Rachev 
 e-mail = brodo2g@gmail.com 
@@ -10,4 +10,4 @@ e-mail = silvenag@gmail.com
 =======
 name = 
 size = 
-не бачка
+Г­ГҐ ГЎГ Г·ГЄГ 
