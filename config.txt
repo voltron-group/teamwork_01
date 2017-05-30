@@ -1,6 +1,6 @@
 
-name =
-email = 
+name = Svetoslav Petkov
+email = svet1981@abv.bg
 
 name = Teodor.Rachev 
 e-mail = brodo2g@gmail.com 
