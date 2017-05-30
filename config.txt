@@ -19,6 +19,9 @@ STATUS = COMPLETE
 
 VOLTRON disengage
 
+name = Yavor Grigorov
+e-mail = yavor.p.grigorov@gmail.com
+
 =======
 name = 
 size = 
