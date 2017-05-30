@@ -1,4 +1,34 @@
-﻿
+﻿<<<<<<< .mine
+name = Ognyan Ignatov
+size = 174
+test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+
 name = Svetoslav Petkov
 email = svet1981@abv.bg
 
@@ -19,6 +49,9 @@ STATUS = COMPLETE
 
 VOLTRON disengage
 
+name = Yavor Grigorov
+e-mail = yavor.p.grigorov@gmail.com
+
 =======
 name = 
 size = 
@@ -26,4 +59,8 @@ size =
 
 name = Velin Hristov
 e-mail= resingdora@abv.bg
+<<<<<<< HEAD
 Im making a conflict
+=======
+>>>>>>> .theirs
+>>>>>>> 07c7734061ecf6a9170dd5fe3a56b11d7322b3df
