@@ -7,6 +7,8 @@ e-mail = brodo2g@gmail.com
 
 name = Silvena Shtereva
 e-mail = silvenag@gmail.com
+name =Chochko Bagera
+
 =======
 name = 
 size = 
