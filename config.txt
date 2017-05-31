@@ -1,5 +1,4 @@
-﻿
-name = Svetoslav Petkov
+﻿name = Svetoslav Petkov
 email = svet1981@abv.bg
 
 name = Teodor.Rachev 
@@ -8,21 +7,13 @@ e-mail = brodo2g@gmail.com
 name = Silvena Shtereva
 e-mail = silvenag@gmail.com
 
-name= Mihail Bratanov
-e-mail=m.d.bratanov@gmail.com
+name = Mihail Bratanov
+e-mail = m.d.bratanov@gmail.com
 
 name = Kiril Parushev
-e-mail = parushev.kiril@gmail.com
-
-NAME = VOLTRON
-STATUS = COMPLETE
-
-VOLTRON disengage
-
-=======
-name = 
-size = 
-íå áà÷êà
+town = Initial - Bourgas. Current - Sofia.
+hobbies = gaming.
+reason to study in SoftUni = to learn to code and become a programmer.
 
 name = Velin Hristov
 e-mail= resingdora@abv.bg
