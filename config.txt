@@ -15,5 +15,9 @@ town = Initial - Bourgas. Current - Sofia.
 hobbies = gaming.
 reason to study in SoftUni = to learn to code and become a programmer.
 
+name = Yavor Grigorov
+e-mail = yavor.p.grigorov@gmail.com
+
 name = Velin Hristov
 e-mail= resingdora@abv.bg
+
