@@ -1,5 +1,9 @@
 ﻿name = Svetoslav Petkov
 email = svet1981@abv.bg
+town = Plovdiv
+hobbies = listening music, fishing
+reason to study in SoftUni = to change my proffesional orientation.
+
 
 name = Teodor.Rachev 
 e-mail = brodo2g@gmail.com 
