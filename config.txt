@@ -25,3 +25,5 @@ e-mail = yavor.p.grigorov@gmail.com
 name = Velin Hristov
 e-mail= resingdora@abv.bg
 
+name = Dimo Ivanov
+email = dimo.mailbox@gmail.com
